@@ -7,7 +7,7 @@ export const metadata = {
     canonical: "https://landing-page-ten-cyan-35.vercel.app/",
   },
   verification: {
-    google: "googleeb64f31b492c3528.html",
+    google: "SBklAuf6SVKKf0jVp5zxfh99OSI_7k2u6smz05w4T3Y",
   },
 };
 
