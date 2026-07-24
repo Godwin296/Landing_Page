@@ -191,7 +191,7 @@ export default function Home() {
 
       {/* NAVIGATION */}
       <nav>
-        <img className="hero-avatar" src="/marc.jpeg" alt="Marc Godwin" />
+        <img className="hero-avatar" src="/godwin.jpeg" alt="Marc Godwin" />
         <ul className="nav-links">
           <li><a onClick={() => scrollToSection("projects")}>Projets</a></li>
           <li><a onClick={() => scrollToSection("skills")}>Compétences</a></li>
